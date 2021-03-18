@@ -1,0 +1,2 @@
+rootProject.name='Animated Vector Drawable'
+include ':app'
